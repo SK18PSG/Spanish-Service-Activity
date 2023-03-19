@@ -1,0 +1,45 @@
+
+body {
+    background-image:url(4199072.jpg);
+    color: aliceblue;
+}
+
+h2 {
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+h1 {
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+p {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+ul {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+ol {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+img {
+    border-radius: 50px ;
+    padding: 20px;
+    margin-left: 1040px;
+    margin-top: -158px;
+    height: 120%
+}
+
+.Section1 {
+     border-radius: 25px;
+     font-family: 'Indie Flower', cursive;
+  background-image:url(paper-1074131_1280.jpg);
+  width: 1000px;
+  height: 120px; 
+  padding-top: 1px; 
+  padding-right: 20px;
+  padding-left: 20px;
+  padding-bottom: 20px;
+  color: black;
+}
